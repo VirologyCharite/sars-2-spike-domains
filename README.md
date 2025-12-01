@@ -47,4 +47,5 @@ $ uv run msa-find-and-extract.py \
          < HCoV-alignment.fasta > HCoV-S1-domain-alignment.fasta
 ```
 
-and similarly for extracting the S2 domain of all sequences in an alignment.
+and similarly for extracting the S2 domain of all sequences in an alignment
+(but using the S2 sequences, above).
