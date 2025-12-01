@@ -11,6 +11,7 @@ dependencies = [
 
 [project.scripts]
 print-domains = "sars_2_spike_domains.cli.print_domains:main"
+print-sequences = "sars_2_spike_domains.cli.print_sequences:main"
 
 [tool.pytest.ini_options]
 pythonpath = ["src"]
